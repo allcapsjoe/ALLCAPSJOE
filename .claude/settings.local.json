@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for f in C:/develop/ALLCAPS/tools-and-sites/src/sites/data/*.md)",
+      "Bash(do echo \"=== $f ===\")",
+      "Read(//c/develop/ALLCAPS/ALLCAPSJOE/**)",
+      "Bash(done)"
+    ]
+  }
+}
