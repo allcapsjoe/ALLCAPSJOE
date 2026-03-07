@@ -1,0 +1,28 @@
+name: Update Reading Log
+
+on:
+  schedule:
+    - cron: '0 8 * * *'   # Daily at 8am UTC
+  workflow_dispatch:       # Allow manual runs from the Actions tab
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch feed and update README
+        run: node scripts/update-reading-log.mjs
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet && echo "No changes." || (git add README.md && git commit -m "chore: update reading log" && git push)

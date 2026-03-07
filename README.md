@@ -1,13 +1,10 @@
 # ALLCAPSJOE
 
-> 30+ years. Wide range of industries. Started at the machine — ended up running teams.
-> Now I build with AI, and I teach others how to sustain it.
 
----
 
 ## `$ whoami`
 
-Software engineer since 1995. Came up through hardware installation and help desk before ever writing a line of code. Learned HTML. Then ColdFusion. Then SQL. Then enterprise CMS. Then React. Led teams. Mentored engineers. Became a manager. Made principal.
+Software engineer since 1995. Came up through hardware installation and help desk before ever writing a line of code. Learned HTML. Then JavaScript. Then server-side web development. Then SQL. Then enterprise CMS. Then JavaScript again. Led teams. Mentored engineers. Became a manager.
 
 I've spent the last decade teaching junior developers how to work on systems they didn't build and don't fully understand. Turns out that is exactly the skill you need to work with AI.
 
@@ -15,39 +12,26 @@ I've spent the last decade teaching junior developers how to work on systems the
 
 ## `$ ./ai-operator.sh`
 
-**AI Operator** — not an influencer. Not a content machine.
-
-Come in. Assess. Build with AI. Teach the team to use it and maintain it. Leave it better than you found it. Move on.
+**AI Operator**
 
 The 30 years matter because mentoring a junior dev and directing an AI model require the same core skill: knowing what to ask for, knowing when the output is wrong, and knowing how to hand off something complex to someone who doesn't fully understand it yet.
 
-My GitHub contribution graph has exploded. The output is real. The craft behind it is still mine.
+Think of the Operators in The Matrix. They are not jacked in. They sit in the real world, watching the screens, reading the data streams, running the board. They upload what the crew needs, monitor what is happening inside, and pull the cord when something goes wrong. The people in the construct get the credit for the moves, but the Operator is why they survive.
+
+That is the role. Not inside the AI blindly accepting output, but above it, reading it, directing it, correcting it, shaping what gets kept and what gets cut. The contribution graph has exploded. The output is real. The craft directing it is still mine.
+
+Tools change. Notepad became an IDE. The IDE became an AI pair. The craft behind the keyboard stays the same.
+
 
 ---
 
-## `$ git log --career --oneline`
-
-| year | |
-|------|---|
-| `2026` | **`....`** &nbsp; the chapter being written |
-| `2024` | Principal Engineer |
-| `2020` | Engineering Manager &nbsp;·&nbsp; Mentor |
-| `2017` | Tech Lead &nbsp;·&nbsp; React / Node &nbsp;·&nbsp; Mentor |
-| `2014` | AEM &nbsp;·&nbsp; First Mentor Role |
-| `2008` | SQL Server |
-| `2000` | ColdFusion |
-| `1998` | HTML / JavaScript |
-| `1996` | Help Desk |
-| `1995` | Hardware Installation |
-
----
 
 ## `$ ls -la ./allcapsjoe/`
 
 | | |
 |---|---|
-| [allcapsjoe.com](https://allcapsjoe.com) | Home base |
-| [blog.allcapsjoe.com](https://blog.allcapsjoe.com) | Linkstream — what I'm reading |
+| [allcapsJOE.com](https://allcapsjoe.com) | Home base |
+| [blog.allcapsjoe.com](https://blog.allcapsjoe.com) | Linkstream of what I'm reading |
 | [tools.allcapsjoe.com](https://tools.allcapsjoe.com) | Developer utilities I've built |
 | [sites.allcapsjoe.com](https://sites.allcapsjoe.com) | Sites I've built |
 | [games.allcapsjoe.com](https://games.allcapsjoe.com) | Web games — 6 complete |
@@ -60,7 +44,11 @@ My GitHub contribution graph has exploded. The output is real. The craft behind 
 *What I'm reading — updated automatically from [blog.allcapsjoe.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
-<!-- auto-updated by GitHub Actions · do not edit this block -->
+- [World Monitor - Real-Time Global Intelligence Dashboard](https://blog.ALLCAPSJOE.com/posts/20260301-0307/world-monitor-real-time-global-intellige_ls_2bf4f635f9c7.html) `2026-03-06`
+- [Request to have your personal content removed from Google Search - Google Search Help](https://blog.ALLCAPSJOE.com/posts/20260301-0307/request-to-have-your-personal-content-re_ls_0c00dcfd209b.html) `2026-03-05`
+- [LLMs can unmask pseudonymous users at scale with surprising accuracy](https://blog.ALLCAPSJOE.com/posts/20260301-0307/llms-can-unmask-pseudonymous-users-at-sc_ls_a170019d68e1.html) `2026-03-04`
+- [Lock Scroll With a Vengeance – Unsung](https://blog.ALLCAPSJOE.com/posts/20260301-0307/lock-scroll-with-a-vengeance-unsung_ls_ac70e5135149.html) `2026-03-04`
+- [Astrophysicist Proposes Interstellar Mission to Study Black Holes | Sci.News](https://blog.ALLCAPSJOE.com/posts/20260301-0307/astrophysicist-proposes-interstellar-mis_ls_50913572ce99.html) `2026-03-04`
 <!-- READING_END -->
 
 ---
