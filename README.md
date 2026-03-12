@@ -79,8 +79,8 @@ Tools change. Notepad became an IDE. The IDE became an AI pair. The craft behind
 
 ---
 
-<sub>
-[allcapsjoe.com](https://allcapsjoe.com)&nbsp;&nbsp;·&nbsp;&nbsp;[Bluesky](https://bsky.app/profile/allcapsjoe.com)&nbsp;&nbsp;·&nbsp;&nbsp;[LinkedIn](https://linkedin.com/in/allcapsjoe)&nbsp;&nbsp;·&nbsp;&nbsp;[Email](mailto:caps@allcapsjoe.com)
-</sub>
-
 </details>
+
+<sub>
+<a href="https://allcapsjoe.com">allcapsjoe.com</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://bsky.app/profile/allcapsjoe.com">Bluesky</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://linkedin.com/in/allcapsjoe">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:caps@allcapsjoe.com">Email</a>
+</sub>
