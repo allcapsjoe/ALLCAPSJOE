@@ -1,7 +1,6 @@
 <img src="assets/readme-banner.svg" alt="ALLCAPSJOE // PROFILE TERMINAL" width="100%">
 
-<details>
-<summary>$ ./ai-operator.sh</summary>
+## `$ ./ai-operator.sh`
 
 **AI Operator**
 
@@ -12,8 +11,6 @@ Think of the Operators in The Matrix. They are not jacked in. They sit in the re
 That is the role. Not inside the AI blindly accepting output, but above it, reading it, directing it, correcting it, shaping what gets kept and what gets cut. The contribution graph has exploded. The output is real. The craft directing it is still mine.
 
 Tools change. Notepad became an IDE. The IDE became an AI pair. The craft behind the keyboard stays the same.
-
-</details>
 
 ---
 
