@@ -1,4 +1,4 @@
-name: Update Reading Log
+name: Update Feeds
 
 on:
   schedule:
@@ -18,11 +18,11 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Fetch feed and update README
-        run: node scripts/update-reading-log.mjs
+      - name: Fetch feeds and update README
+        run: node scripts/update-feeds.mjs
 
       - name: Commit and push if changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet && echo "No changes." || (git add README.md && git commit -m "chore: update reading log" && git push)
+          git diff --quiet && echo "No changes." || (git add README.md && git commit -m "chore: update feeds" && git push)

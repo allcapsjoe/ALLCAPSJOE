@@ -1,6 +1,7 @@
-# ALLCAPSJOE
+<img src="assets/readme-banner.svg" alt="ALLCAPSJOE // PROFILE TERMINAL" width="100%">
 
-
+<details>
+<summary>read in plain text</summary>
 
 ## `$ whoami`
 
@@ -22,9 +23,7 @@ That is the role. Not inside the AI blindly accepting output, but above it, read
 
 Tools change. Notepad became an IDE. The IDE became an AI pair. The craft behind the keyboard stays the same.
 
-
 ---
-
 
 ## `$ ls -la ./allcapsjoe/`
 
@@ -53,6 +52,35 @@ Tools change. Notepad became an IDE. The IDE became an AI pair. The craft behind
 
 ---
 
+## `$ tail -n 3 tools.log`
+
+*What I'm building — updated automatically from [tools.allcapsjoe.com](https://tools.allcapsjoe.com)*
+
+<!-- TOOLS_START -->
+<!-- TOOLS_END -->
+
+---
+
+## `$ tail -n 3 games.log`
+
+*What I'm playing — updated automatically from [games.allcapsjoe.com](https://games.allcapsjoe.com)*
+
+<!-- GAMES_START -->
+<!-- GAMES_END -->
+
+---
+
+## `$ tail -n 3 sites.log`
+
+*What I've launched — updated automatically from [sites.allcapsjoe.com](https://sites.allcapsjoe.com)*
+
+<!-- SITES_START -->
+<!-- SITES_END -->
+
+---
+
 <sub>
 [allcapsjoe.com](https://allcapsjoe.com)&nbsp;&nbsp;·&nbsp;&nbsp;[Bluesky](https://bsky.app/profile/allcapsjoe.com)&nbsp;&nbsp;·&nbsp;&nbsp;[LinkedIn](https://linkedin.com/in/allcapsjoe)&nbsp;&nbsp;·&nbsp;&nbsp;[Email](mailto:caps@allcapsjoe.com)
 </sub>
+
+</details>

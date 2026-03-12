@@ -1,0 +1,51 @@
+{
+  "title": "ALLCAPSJOE // PROFILE TERMINAL",
+  "badge": "ONLINE",
+  "prompt": "visitor@allcapsjoe:~$",
+  "height": 1200,
+  "sections": [
+    {
+      "title": "$ whoami",
+      "lines": [
+        "Software engineer since 1995. Hardware install and help desk before ever writing a line of code.",
+        "Learned HTML. Then JavaScript. Then server-side web. Then SQL. Then enterprise CMS. Then JS again.",
+        "Led teams. Mentored engineers. Became a manager.",
+        "Spent the last decade teaching junior devs to work on systems they didn't build and don't fully",
+        "understand. Turns out that is exactly the skill you need to work with AI."
+      ]
+    },
+    {
+      "title": "$ ./ai-operator.sh",
+      "lines": [
+        "[AI OPERATOR]",
+        "The 30 years matter: knowing what to ask for, when output is wrong, how to hand off complex work.",
+        "Think of the Operators in The Matrix — not jacked in, sitting in the real world, reading the data.",
+        "They upload what the crew needs, monitor what's happening inside, pull the cord when things go wrong.",
+        "Not inside the AI blindly accepting output. Above it — reading, directing, correcting, shaping.",
+        "The contribution graph has exploded. The output is real. The craft directing it is still mine.",
+        "Tools change. Notepad became an IDE. The IDE became an AI pair. The craft stays the same."
+      ]
+    },
+    {
+      "title": "$ ls -la ./allcapsjoe/",
+      "lines": [
+        "allcapsjoe.com        Home base",
+        "blog.allcapsjoe.com   Linkstream of what I'm reading",
+        "tools.allcapsjoe.com  Developer utilities I've built",
+        "sites.allcapsjoe.com  Sites I've built",
+        "games.allcapsjoe.com  Web games — 6 complete",
+        "bigunclejoe.com       3D printing & maker stuff"
+      ]
+    },
+    {
+      "title": "$ tail -n 5 reading.log",
+      "lines": [
+        "World Monitor - Real-Time Global Intelligence Dashboard            2026-03-06",
+        "Request to have your personal content removed from Google Search   2026-03-05",
+        "LLMs can unmask pseudonymous users at scale with surprising accuracy  2026-03-04",
+        "Lock Scroll With a Vengeance - Unsung                             2026-03-04",
+        "Astrophysicist Proposes Interstellar Mission to Study Black Holes  2026-03-04"
+      ]
+    }
+  ]
+}
