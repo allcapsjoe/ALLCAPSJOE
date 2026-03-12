@@ -72,8 +72,5 @@
 
   <text x="66" y="530" fill="#8ecba8" font-size="18" font-family="Consolas, Menlo, Monaco, monospace" xml:space="preserve">Tools change. Notepad became an IDE. The IDE became an AI pair. The craft behind the keyboard stays the same.</text>
 
-  <!-- final prompt + cursor -->
-  <text x="66" y="564" fill="#66ff99" font-size="18" font-family="Consolas, Menlo, Monaco, monospace" filter="url(#glow)">ALLCAPSJOE@github:~$</text>
-  <rect x="293" y="547" width="11" height="19" fill="#66ff99" opacity="0.85" />
 
 </svg>
