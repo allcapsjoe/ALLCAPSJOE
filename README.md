@@ -1,19 +1,5 @@
 <img src="assets/readme-banner.svg" alt="ALLCAPSJOE // PROFILE TERMINAL" width="100%">
 
-## `$ ./ai-operator.sh`
-
-**AI Operator**
-
-The 30 years matter because mentoring a junior dev and directing an AI model require the same core skill: knowing what to ask for, knowing when the output is wrong, and knowing how to hand off something complex to someone who doesn't fully understand it yet.
-
-Think of the Operators in The Matrix. They are not jacked in. They sit in the real world, watching the screens, reading the data streams, running the board. They upload what the crew needs, monitor what is happening inside, and pull the cord when something goes wrong. The people in the construct get the credit for the moves, but the Operator is why they survive.
-
-That is the role. Not inside the AI blindly accepting output, but above it, reading it, directing it, correcting it, shaping what gets kept and what gets cut. The contribution graph has exploded. The output is real. The craft directing it is still mine.
-
-Tools change. Notepad became an IDE. The IDE became an AI pair. The craft behind the keyboard stays the same.
-
----
-
 ## `$ ls -la ./allcapsjoe/`
 
 | | |
@@ -65,6 +51,20 @@ Tools change. Notepad became an IDE. The IDE became an AI pair. The craft behind
 
 <!-- SITES_START -->
 <!-- SITES_END -->
+
+---
+
+## `$ ./ai-operator.sh`
+
+**AI Operator**
+
+The 30 years matter because mentoring a junior dev and directing an AI model require the same core skill: knowing what to ask for, knowing when the output is wrong, and knowing how to hand off something complex to someone who doesn't fully understand it yet.
+
+Think of the Operators in The Matrix. They are not jacked in. They sit in the real world, watching the screens, reading the data streams, running the board. They upload what the crew needs, monitor what is happening inside, and pull the cord when something goes wrong. The people in the construct get the credit for the moves, but the Operator is why they survive.
+
+That is the role. Not inside the AI blindly accepting output, but above it, reading it, directing it, correcting it, shaping what gets kept and what gets cut. The contribution graph has exploded. The output is real. The craft directing it is still mine.
+
+Tools change. Notepad became an IDE. The IDE became an AI pair. The craft behind the keyboard stays the same.
 
 ---
 
