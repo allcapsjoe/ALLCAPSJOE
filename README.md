@@ -1,17 +1,7 @@
 <img src="assets/readme-banner.svg" alt="ALLCAPSJOE // PROFILE TERMINAL" width="100%">
 
 <details>
-<summary>read in plain text</summary>
-
-## `$ whoami`
-
-Software engineer since 1995. Came up through hardware installation and help desk before ever writing a line of code. Learned HTML. Then JavaScript. Then server-side web development. Then SQL. Then enterprise CMS. Then JavaScript again. Led teams. Mentored engineers. Became a manager.
-
-I've spent the last decade teaching junior developers how to work on systems they didn't build and don't fully understand. Turns out that is exactly the skill you need to work with AI.
-
----
-
-## `$ ./ai-operator.sh`
+<summary>$ ./ai-operator.sh</summary>
 
 **AI Operator**
 
@@ -23,6 +13,8 @@ That is the role. Not inside the AI blindly accepting output, but above it, read
 
 Tools change. Notepad became an IDE. The IDE became an AI pair. The craft behind the keyboard stays the same.
 
+</details>
+
 ---
 
 ## `$ ls -la ./allcapsjoe/`
@@ -33,7 +25,7 @@ Tools change. Notepad became an IDE. The IDE became an AI pair. The craft behind
 | [blog.allcapsjoe.com](https://blog.allcapsjoe.com) | Linkstream of what I'm reading |
 | [tools.allcapsjoe.com](https://tools.allcapsjoe.com) | Developer utilities I've built |
 | [sites.allcapsjoe.com](https://sites.allcapsjoe.com) | Sites I've built |
-| [games.allcapsjoe.com](https://games.allcapsjoe.com) | Web games — 6 complete |
+| [games.allcapsjoe.com](https://games.allcapsjoe.com) | Web games |
 | [bigunclejoe.com](https://bigunclejoe.com) | 3D printing &amp; maker stuff |
 
 ---
@@ -78,8 +70,6 @@ Tools change. Notepad became an IDE. The IDE became an AI pair. The craft behind
 <!-- SITES_END -->
 
 ---
-
-</details>
 
 <sub>
 <a href="https://allcapsjoe.com">allcapsjoe.com</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://bsky.app/profile/allcapsjoe.com">Bluesky</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://linkedin.com/in/allcapsjoe">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:caps@allcapsjoe.com">Email</a>

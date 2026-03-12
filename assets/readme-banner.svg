@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 290" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 310" role="img" aria-labelledby="title desc">
   <title id="title">ALLCAPSJOE</title>
   <desc id="desc">ALLCAPSJOE // PROFILE TERMINAL</desc>
 
@@ -26,14 +26,14 @@
   </defs>
 
   <!-- background -->
-  <rect width="1600" height="290" fill="url(#bg)" />
+  <rect width="1600" height="310" fill="url(#bg)" />
 
   <!-- outer frame — 16px from SVG edges on all sides -->
-  <rect x="16" y="16" width="1568" height="258" rx="18" fill="#0a1016" stroke="#162733" stroke-width="2" />
+  <rect x="16" y="16" width="1568" height="278" rx="18" fill="#0a1016" stroke="#162733" stroke-width="2" />
 
   <!-- screen — 20px from frame edges on all sides -->
-  <rect x="36" y="36" width="1528" height="218" rx="14" fill="url(#screen)" stroke="#1f3948" stroke-width="1.5" />
-  <rect x="36" y="36" width="1528" height="218" rx="14" fill="url(#scanlines)" opacity="0.35" />
+  <rect x="36" y="36" width="1528" height="238" rx="14" fill="url(#screen)" stroke="#1f3948" stroke-width="1.5" />
+  <rect x="36" y="36" width="1528" height="238" rx="14" fill="url(#scanlines)" opacity="0.35" />
 
   <!-- title bar -->
   <rect x="36" y="36" width="1528" height="38" rx="14" fill="#081016" />
@@ -44,20 +44,20 @@
   <text x="1544" y="60" text-anchor="end" fill="#93c7b0" font-size="14" font-family="Consolas, Menlo, Monaco, monospace">ONLINE</text>
 
   <!-- whoami command -->
-  <text x="66" y="100" font-size="16" font-family="Consolas, Menlo, Monaco, monospace" filter="url(#glow)">
+  <text x="66" y="102" font-size="16" font-family="Consolas, Menlo, Monaco, monospace" filter="url(#glow)">
     <tspan fill="#66ff99">ALLCAPSJOE@github:~$</tspan><tspan fill="#cce8d4" xml:space="preserve"> whoami</tspan>
   </text>
 
   <!-- whoami output — paragraph 1 -->
-  <text x="66" y="124" fill="#6a9e83" font-size="14" font-family="Consolas, Menlo, Monaco, monospace" xml:space="preserve">Software engineer since 1995. Came up through hardware installation and help desk before ever writing a line of code. Learned HTML. Then JavaScript.</text>
-  <text x="66" y="146" fill="#6a9e83" font-size="14" font-family="Consolas, Menlo, Monaco, monospace" xml:space="preserve">Then server-side web development. Then SQL. Then enterprise CMS. Then JavaScript again. Led teams. Mentored engineers. Became a manager.</text>
+  <text x="66" y="130" fill="#8ecba8" font-size="16" font-family="Consolas, Menlo, Monaco, monospace" xml:space="preserve">Software engineer since 1995. Came up through hardware installation and help desk before ever writing a line of code. Learned HTML. Then JavaScript.</text>
+  <text x="66" y="156" fill="#8ecba8" font-size="16" font-family="Consolas, Menlo, Monaco, monospace" xml:space="preserve">Then server-side web development. Then SQL. Then enterprise CMS. Then JavaScript again. Led teams. Mentored engineers. Became a manager.</text>
 
   <!-- whoami output — paragraph 2 -->
-  <text x="66" y="176" fill="#6a9e83" font-size="14" font-family="Consolas, Menlo, Monaco, monospace" xml:space="preserve">I've spent the last decade teaching junior developers how to work on systems they didn't build and don't fully understand.</text>
-  <text x="66" y="198" fill="#6a9e83" font-size="14" font-family="Consolas, Menlo, Monaco, monospace" xml:space="preserve">Turns out that is exactly the skill you need to work with AI.</text>
+  <text x="66" y="190" fill="#8ecba8" font-size="16" font-family="Consolas, Menlo, Monaco, monospace" xml:space="preserve">I've spent the last decade teaching junior developers how to work on systems they didn't build and don't fully understand.</text>
+  <text x="66" y="216" fill="#8ecba8" font-size="16" font-family="Consolas, Menlo, Monaco, monospace" xml:space="preserve">Turns out that is exactly the skill you need to work with AI.</text>
 
   <!-- next prompt + cursor -->
-  <text x="66" y="228" fill="#66ff99" font-size="16" font-family="Consolas, Menlo, Monaco, monospace" filter="url(#glow)">ALLCAPSJOE@github:~$</text>
-  <rect x="269" y="212" width="10" height="17" fill="#66ff99" opacity="0.85" />
+  <text x="66" y="250" fill="#66ff99" font-size="16" font-family="Consolas, Menlo, Monaco, monospace" filter="url(#glow)">ALLCAPSJOE@github:~$</text>
+  <rect x="268" y="234" width="10" height="17" fill="#66ff99" opacity="0.85" />
 
 </svg>
