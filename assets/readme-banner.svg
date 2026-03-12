@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 590" role="img" aria-labelledby="title desc">
+  <title id="title">ALLCAPSJOE</title>
+  <desc id="desc">ALLCAPSJOE // PROFILE TERMINAL</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020406" />
+      <stop offset="50%" stop-color="#081018" />
+      <stop offset="100%" stop-color="#0b1220" />
+    </linearGradient>
+    <linearGradient id="screen" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#020404" />
+      <stop offset="100%" stop-color="#061016" />
+    </linearGradient>
+    <pattern id="scanlines" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="4" fill="rgba(0,0,0,0)" />
+      <rect y="4" width="8" height="4" fill="rgba(0,0,0,0.16)" />
+    </pattern>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.7" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="1600" height="590" fill="url(#bg)" />
+
+  <!-- outer frame — 16px from SVG edges on all sides -->
+  <rect x="16" y="16" width="1568" height="558" rx="18" fill="#0a1016" stroke="#162733" stroke-width="2" />
+
+  <!-- screen — 20px from frame edges on all sides -->
+  <rect x="36" y="36" width="1528" height="518" rx="14" fill="url(#screen)" stroke="#1f3948" stroke-width="1.5" />
+  <rect x="36" y="36" width="1528" height="518" rx="14" fill="url(#scanlines)" opacity="0.35" />
+
+  <!-- title bar -->
+  <rect x="36" y="36" width="1528" height="40" rx="14" fill="#081016" />
+  <circle cx="66"  cy="56" r="6" fill="#66ff99" opacity="0.95" />
+  <circle cx="88"  cy="56" r="6" fill="#66ff99" opacity="0.65" />
+  <circle cx="110" cy="56" r="6" fill="#66ff99" opacity="0.35" />
+  <text x="136" y="62" fill="#66ff99" font-size="19" font-family="Consolas, Menlo, Monaco, monospace" filter="url(#glow)">ALLCAPSJOE // PROFILE TERMINAL</text>
+  <text x="1544" y="62" text-anchor="end" fill="#93c7b0" font-size="16" font-family="Consolas, Menlo, Monaco, monospace">ONLINE</text>
+
+  <!-- $ whoami -->
+  <text x="66" y="106" font-size="18" font-family="Consolas, Menlo, Monaco, monospace" filter="url(#glow)">
+    <tspan fill="#66ff99">ALLCAPSJOE@github:~$</tspan><tspan fill="#cce8d4" xml:space="preserve"> whoami</tspan>
+  </text>
+
+  <text x="66" y="134" fill="#8ecba8" font-size="18" font-family="Consolas, Menlo, Monaco, monospace" xml:space="preserve">Software engineer since 1995. Came up through hardware installation and help desk before ever writing a line of code.</text>
+  <text x="66" y="162" fill="#8ecba8" font-size="18" font-family="Consolas, Menlo, Monaco, monospace" xml:space="preserve">Learned HTML. Then JavaScript. Then server-side web development. Then SQL. Then enterprise CMS. Then JavaScript again.</text>
+  <text x="66" y="190" fill="#8ecba8" font-size="18" font-family="Consolas, Menlo, Monaco, monospace" xml:space="preserve">Led teams. Mentored engineers. Became a manager.</text>
+
+  <text x="66" y="224" fill="#8ecba8" font-size="18" font-family="Consolas, Menlo, Monaco, monospace" xml:space="preserve">I've spent the last decade teaching junior developers how to work on systems they didn't build and don't fully understand.</text>
+  <text x="66" y="252" fill="#8ecba8" font-size="18" font-family="Consolas, Menlo, Monaco, monospace" xml:space="preserve">Turns out that is exactly the skill you need to work with AI.</text>
+
+  <!-- $ ./ai-operator.sh -->
+  <text x="66" y="294" font-size="18" font-family="Consolas, Menlo, Monaco, monospace" filter="url(#glow)">
+    <tspan fill="#66ff99">ALLCAPSJOE@github:~$</tspan><tspan fill="#cce8d4" xml:space="preserve"> ./ai-operator.sh</tspan>
+  </text>
+
+  <text x="66" y="322" fill="#8ecba8" font-size="18" font-family="Consolas, Menlo, Monaco, monospace" xml:space="preserve">The 30 years matter because mentoring a junior dev and directing an AI model require the same core skill: knowing what to ask for,</text>
+  <text x="66" y="350" fill="#8ecba8" font-size="18" font-family="Consolas, Menlo, Monaco, monospace" xml:space="preserve">knowing when the output is wrong, and knowing how to hand off something complex to someone who doesn't fully understand it yet.</text>
+
+  <text x="66" y="384" fill="#8ecba8" font-size="18" font-family="Consolas, Menlo, Monaco, monospace" xml:space="preserve">Think of the Operators in The Matrix. They are not jacked in. They sit in the real world, watching the screens, reading the data</text>
+  <text x="66" y="412" fill="#8ecba8" font-size="18" font-family="Consolas, Menlo, Monaco, monospace" xml:space="preserve">streams, running the board. They upload what the crew needs, monitor what is happening inside, and pull the cord when something</text>
+  <text x="66" y="440" fill="#8ecba8" font-size="18" font-family="Consolas, Menlo, Monaco, monospace" xml:space="preserve">goes wrong. The people in the construct get the credit for the moves, but the Operator is why they survive.</text>
+
+  <text x="66" y="474" fill="#8ecba8" font-size="18" font-family="Consolas, Menlo, Monaco, monospace" xml:space="preserve">That is the role. Not inside the AI blindly accepting output, but above it, reading it, directing it, correcting it, shaping what</text>
+  <text x="66" y="502" fill="#8ecba8" font-size="18" font-family="Consolas, Menlo, Monaco, monospace" xml:space="preserve">gets kept and what gets cut. The contribution graph has exploded. The output is real. The craft directing it is still mine.</text>
+
+  <text x="66" y="530" fill="#8ecba8" font-size="18" font-family="Consolas, Menlo, Monaco, monospace" xml:space="preserve">Tools change. Notepad became an IDE. The IDE became an AI pair. The craft behind the keyboard stays the same.</text>
+
+
+</svg>
