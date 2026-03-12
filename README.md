@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
-- [World Monitor - Real-Time Global Intelligence Dashboard](https://blog.ALLCAPSJOE.com/posts/20260301-0307/world-monitor-real-time-global-intellige_ls_2bf4f635f9c7.html) `2026-03-06`
-- [Request to have your personal content removed from Google Search - Google Search Help](https://blog.ALLCAPSJOE.com/posts/20260301-0307/request-to-have-your-personal-content-re_ls_0c00dcfd209b.html) `2026-03-05`
-- [LLMs can unmask pseudonymous users at scale with surprising accuracy](https://blog.ALLCAPSJOE.com/posts/20260301-0307/llms-can-unmask-pseudonymous-users-at-sc_ls_a170019d68e1.html) `2026-03-04`
-- [Lock Scroll With a Vengeance – Unsung](https://blog.ALLCAPSJOE.com/posts/20260301-0307/lock-scroll-with-a-vengeance-unsung_ls_ac70e5135149.html) `2026-03-04`
-- [Astrophysicist Proposes Interstellar Mission to Study Black Holes | Sci.News](https://blog.ALLCAPSJOE.com/posts/20260301-0307/astrophysicist-proposes-interstellar-mis_ls_50913572ce99.html) `2026-03-04`
+- [Humans added to the loop only when humans make mistakes. Closing barn doors after all animals got&amp;hellip;](https://blog.ALLCAPSJOE.com/posts/20260308-0314/humans-added-to-the-loop-only-when-human_ls_7d03e8e6cd0f.html) `2026-03-11`
+- [The Missing GitHub Status Page](https://blog.ALLCAPSJOE.com/posts/20260308-0314/the-missing-github-status-page_ls_ef14e47a340e.html) `2026-03-11`
+- [https://wikigacha.com/](https://blog.ALLCAPSJOE.com/posts/20260308-0314/https-wikigacha-com_ls_e86058f56926.html) `2026-03-11`
+- [100 Years of Women Who Changed History](https://blog.ALLCAPSJOE.com/posts/20260308-0314/100-years-of-women-who-changed-history_ls_b82de6d08059.html) `2026-03-10`
+- [Payphone Go](https://blog.ALLCAPSJOE.com/posts/20260301-0307/payphone-go_ls_d8da848a79db.html) `2026-03-07`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
@@ -42,6 +42,9 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm building — updated automatically from [games.ALLCAPSJOE.com](https://games.allcapsjoe.com)*
 
 <!-- GAMES_START -->
+- [Emoji Bloom](https://games.allcapsjoe.com/emoji-bloom/) `2026-02-06`
+- [Neon Diver](https://games.allcapsjoe.com/neon-diver/) `2026-01-20`
+- [Thread](https://games.allcapsjoe.com/thread/) `2026-01-20`
 <!-- GAMES_END -->
 
 - [More...](https://games.allcapsjoe.com)
@@ -53,6 +56,9 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I've launched — updated automatically from [sites.ALLCAPSJOE.com](https://sites.allcapsjoe.com)*
 
 <!-- SITES_START -->
+- [BigUncleJoe.com](https://bigunclejoe.com/) `2026-03-03`
+- [AC Bell Prices](https://acbp.xyz/) `2026-03-03`
+- [How Many Days Since…](https://howmanydayssince.net/) `2026-02-18`
 <!-- SITES_END -->
 
 - [More...](https://sites.allcapsjoe.com)
@@ -64,6 +70,9 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I've built — updated automatically from [tools.ALLCAPSJOE.com](https://tools.allcapsjoe.com)*
 
 <!-- TOOLS_START -->
+- [A List Generator](https://tools.allcapsjoe.com/a-list-generator/) `2026-02-18`
+- [CAPS LOCKED](https://tools.allcapsjoe.com/caps-locked/) `2026-02-18`
+- [Character Counter](https://tools.allcapsjoe.com/char-cnt/) `2026-02-18`
 <!-- TOOLS_END -->
 
 - [More...](https://tools.allcapsjoe.com)
