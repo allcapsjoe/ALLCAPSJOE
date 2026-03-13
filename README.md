@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [Interstellar Comet 3I/ATLAS is exceptionally alcoholic](https://blog.ALLCAPSJOE.com/posts/20260308-0314/interstellar-comet-3i-atlas-is-exception_ls_002068e7f19e.html) `2026-03-12`
 - [Humans added to the loop only when humans make mistakes. Closing barn doors after all animals got&amp;hellip;](https://blog.ALLCAPSJOE.com/posts/20260308-0314/humans-added-to-the-loop-only-when-human_ls_7d03e8e6cd0f.html) `2026-03-11`
 - [The Missing GitHub Status Page](https://blog.ALLCAPSJOE.com/posts/20260308-0314/the-missing-github-status-page_ls_ef14e47a340e.html) `2026-03-11`
 - [https://wikigacha.com/](https://blog.ALLCAPSJOE.com/posts/20260308-0314/https-wikigacha-com_ls_e86058f56926.html) `2026-03-11`
 - [100 Years of Women Who Changed History](https://blog.ALLCAPSJOE.com/posts/20260308-0314/100-years-of-women-who-changed-history_ls_b82de6d08059.html) `2026-03-10`
-- [Payphone Go](https://blog.ALLCAPSJOE.com/posts/20260301-0307/payphone-go_ls_d8da848a79db.html) `2026-03-07`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
