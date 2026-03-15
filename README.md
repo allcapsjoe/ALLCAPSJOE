@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [What do coders do after AI? - Anil Dash](https://blog.ALLCAPSJOE.com/posts/20260308-0314/what-do-coders-do-after-ai-anil-dash_ls_9aacdd72d8d5.html) `2026-03-14`
+- [When Using AI Leads to “Brain Fry”](https://blog.ALLCAPSJOE.com/posts/20260308-0314/when-using-ai-leads-to-brain-fry_ls_152b2cece65c.html) `2026-03-14`
 - [Interstellar Comet 3I/ATLAS is exceptionally alcoholic](https://blog.ALLCAPSJOE.com/posts/20260308-0314/interstellar-comet-3i-atlas-is-exception_ls_002068e7f19e.html) `2026-03-12`
 - [Humans added to the loop only when humans make mistakes. Closing barn doors after all animals got&amp;hellip;](https://blog.ALLCAPSJOE.com/posts/20260308-0314/humans-added-to-the-loop-only-when-human_ls_7d03e8e6cd0f.html) `2026-03-11`
 - [The Missing GitHub Status Page](https://blog.ALLCAPSJOE.com/posts/20260308-0314/the-missing-github-status-page_ls_ef14e47a340e.html) `2026-03-11`
-- [https://wikigacha.com/](https://blog.ALLCAPSJOE.com/posts/20260308-0314/https-wikigacha-com_ls_e86058f56926.html) `2026-03-11`
-- [100 Years of Women Who Changed History](https://blog.ALLCAPSJOE.com/posts/20260308-0314/100-years-of-women-who-changed-history_ls_b82de6d08059.html) `2026-03-10`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
