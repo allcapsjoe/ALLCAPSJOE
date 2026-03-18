@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
-- [What do coders do after AI? - Anil Dash](https://blog.ALLCAPSJOE.com/posts/20260308-0314/what-do-coders-do-after-ai-anil-dash_ls_9aacdd72d8d5.html) `2026-03-14`
-- [When Using AI Leads to “Brain Fry”](https://blog.ALLCAPSJOE.com/posts/20260308-0314/when-using-ai-leads-to-brain-fry_ls_152b2cece65c.html) `2026-03-14`
-- [Interstellar Comet 3I/ATLAS is exceptionally alcoholic](https://blog.ALLCAPSJOE.com/posts/20260308-0314/interstellar-comet-3i-atlas-is-exception_ls_002068e7f19e.html) `2026-03-12`
-- [Humans added to the loop only when humans make mistakes. Closing barn doors after all animals got&amp;hellip;](https://blog.ALLCAPSJOE.com/posts/20260308-0314/humans-added-to-the-loop-only-when-human_ls_7d03e8e6cd0f.html) `2026-03-11`
-- [The Missing GitHub Status Page](https://blog.ALLCAPSJOE.com/posts/20260308-0314/the-missing-github-status-page_ls_ef14e47a340e.html) `2026-03-11`
+- [‘Pokémon Go’ players unknowingly trained delivery robots with 30 billion images](https://blog.ALLCAPSJOE.com/posts/20260315-0321/pok-mon-go-players-unknowingly-trained-d_ls_048c0b6ef00e.html) `2026-03-17`
+- [Software Bonkers](https://blog.ALLCAPSJOE.com/posts/20260315-0321/software-bonkers_ls_1909422787a3.html) `2026-03-17`
+- [Agentic engineer or AI operator](https://blog.ALLCAPSJOE.com/posts/20260315-0321/agentic-engineer-or-ai-operator_ls_cd1c2342a122.html) `2026-03-17`
+- [Sharing this also. Simon sums it up well.](https://blog.ALLCAPSJOE.com/posts/20260315-0321/sharing-this-also-simon-sums-it-up-well_ls_b4e8e92a4350.html) `2026-03-17`
+- [https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html?unlocked_a&amp;hellip;](https://blog.ALLCAPSJOE.com/posts/20260315-0321/https-www-nytimes-com-2026-03-12-magazin_ls_9e39b127a4fd.html) `2026-03-17`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
