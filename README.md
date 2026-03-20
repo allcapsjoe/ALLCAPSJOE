@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [How coding agents work - Agentic Engineering Patterns](https://blog.ALLCAPSJOE.com/posts/20260315-0321/how-coding-agents-work-agentic-engineeri_ls_2a1d6275f494.html) `2026-03-19`
+- [VHS Slipcover Maker - VHS Slipcover Maker](https://blog.ALLCAPSJOE.com/posts/20260315-0321/vhs-slipcover-maker-vhs-slipcover-maker_ls_099aa25d1d88.html) `2026-03-19`
+- [The 49MB Web Page](https://blog.ALLCAPSJOE.com/posts/20260315-0321/the-49mb-web-page_ls_65bc628df60d.html) `2026-03-19`
+- [Computers all the way down](https://blog.ALLCAPSJOE.com/posts/20260315-0321/computers-all-the-way-down_ls_ad3712b1ea8c.html) `2026-03-19`
 - [Reality meets reality](https://blog.ALLCAPSJOE.com/posts/20260315-0321/reality-meets-reality_ls_7bc8c59dc9e6.html) `2026-03-18`
-- [‘Pokémon Go’ players unknowingly trained delivery robots with 30 billion images](https://blog.ALLCAPSJOE.com/posts/20260315-0321/pok-mon-go-players-unknowingly-trained-d_ls_048c0b6ef00e.html) `2026-03-17`
-- [Software Bonkers](https://blog.ALLCAPSJOE.com/posts/20260315-0321/software-bonkers_ls_1909422787a3.html) `2026-03-17`
-- [Agentic engineer or AI operator](https://blog.ALLCAPSJOE.com/posts/20260315-0321/agentic-engineer-or-ai-operator_ls_cd1c2342a122.html) `2026-03-17`
-- [Sharing this also. Simon sums it up well.](https://blog.ALLCAPSJOE.com/posts/20260315-0321/sharing-this-also-simon-sums-it-up-well_ls_b4e8e92a4350.html) `2026-03-17`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
@@ -42,7 +42,7 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm building — updated automatically from [games.ALLCAPSJOE.com](https://games.allcapsjoe.com)*
 
 <!-- GAMES_START -->
-- [Emoji Bloom](https://games.allcapsjoe.com/emoji-bloom/) `2026-02-06`
+- [Emoji Bloom](https://games.allcapsjoe.com/emoji-bloom/) `2026-03-19`
 - [Neon Diver](https://games.allcapsjoe.com/neon-diver/) `2026-01-20`
 - [Thread](https://games.allcapsjoe.com/thread/) `2026-01-20`
 <!-- GAMES_END -->
