@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [Using Git with coding agents - Agentic Engineering Patterns](https://blog.ALLCAPSJOE.com/posts/20260322-0328/using-git-with-coding-agents-agentic-eng_ls_60b2a5b59a4b.html) `2026-03-22`
 - [Just one more prompt | Tao Bojlén](https://blog.ALLCAPSJOE.com/posts/20260315-0321/just-one-more-prompt-tao-bojl-n_ls_d1f46e3b8939.html) `2026-03-21`
 - [How coding agents work - Agentic Engineering Patterns](https://blog.ALLCAPSJOE.com/posts/20260315-0321/how-coding-agents-work-agentic-engineeri_ls_2a1d6275f494.html) `2026-03-19`
 - [VHS Slipcover Maker - VHS Slipcover Maker](https://blog.ALLCAPSJOE.com/posts/20260315-0321/vhs-slipcover-maker-vhs-slipcover-maker_ls_099aa25d1d88.html) `2026-03-19`
 - [The 49MB Web Page](https://blog.ALLCAPSJOE.com/posts/20260315-0321/the-49mb-web-page_ls_65bc628df60d.html) `2026-03-19`
-- [Computers all the way down](https://blog.ALLCAPSJOE.com/posts/20260315-0321/computers-all-the-way-down_ls_ad3712b1ea8c.html) `2026-03-19`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
