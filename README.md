@@ -2,7 +2,7 @@
 
 Software engineer since 1995. Came up through hardware installation and help desk before ever writing a line of code. Learned HTML. Then JavaScript. Then server-side web development. Then SQL. Then enterprise CMS. Then JavaScript again. Led teams. Mentored engineers. Became a manager.
 
-I've spent the last decade teaching junior developers how to work on systems they didn't build and don't fully understand. Turns out that is exactly the skill you need to work with AI.
+I’ve spent the last decade teaching junior developers, including mentoring new engineers through apprenticeship programs, how to work on systems they didn’t build and don’t fully understand.
 
 The 30 years matter because mentoring a junior dev and directing an AI model require the same core skill: knowing what to ask for, knowing when the output is wrong, and knowing how to hand off something complex to someone who doesn't fully understand it yet.
 
