@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [Thoughts on slowing the fuck down](https://blog.ALLCAPSJOE.com/posts/20260322-0328/thoughts-on-slowing-the-fuck-down_ls_ac3949eda566.html) `2026-03-26`
 - [Neurotica (@schwarzgerat.bsky.social)](https://blog.ALLCAPSJOE.com/posts/20260322-0328/neurotica-schwarzgerat-bsky-social_ls_125717f1a601.html) `2026-03-24`
 - [The machine didn’t take your craft. You gave it up. - David Abram](https://blog.ALLCAPSJOE.com/posts/20260322-0328/the-machine-didn-t-take-your-craft-you-g_ls_21ffe5a6c841.html) `2026-03-24`
 - [Using Git with coding agents - Agentic Engineering Patterns](https://blog.ALLCAPSJOE.com/posts/20260322-0328/using-git-with-coding-agents-agentic-eng_ls_60b2a5b59a4b.html) `2026-03-22`
 - [Just one more prompt | Tao Bojlén](https://blog.ALLCAPSJOE.com/posts/20260315-0321/just-one-more-prompt-tao-bojl-n_ls_d1f46e3b8939.html) `2026-03-21`
-- [How coding agents work - Agentic Engineering Patterns](https://blog.ALLCAPSJOE.com/posts/20260315-0321/how-coding-agents-work-agentic-engineeri_ls_2a1d6275f494.html) `2026-03-19`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
