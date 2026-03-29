@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [Matt, Anil, Paul Ford all seeing vibe coding as legit. Old web heads seeing the writing on the wall&amp;hellip;.](https://blog.ALLCAPSJOE.com/posts/20260322-0328/matt-anil-paul-ford-all-seeing-vibe-codi_ls_61be622ac320.html) `2026-03-28`
 - [&amp;ldquo;Can you describe what you want?&amp;rdquo; That is the number one question for developers now.](https://blog.ALLCAPSJOE.com/posts/20260322-0328/ldquo-can-you-describe-what-you-want-rdq_ls_4c71cb3059f9.html) `2026-03-27`
 - [Deep Breath: Okay, Let’s Talk About That Controversial DLSS 5 Demo](https://blog.ALLCAPSJOE.com/posts/20260322-0328/deep-breath-okay-let-s-talk-about-that-c_ls_fdec3a718dc2.html) `2026-03-27`
 - [Thoughts on slowing the fuck down](https://blog.ALLCAPSJOE.com/posts/20260322-0328/thoughts-on-slowing-the-fuck-down_ls_ac3949eda566.html) `2026-03-26`
 - [Neurotica (@schwarzgerat.bsky.social)](https://blog.ALLCAPSJOE.com/posts/20260322-0328/neurotica-schwarzgerat-bsky-social_ls_125717f1a601.html) `2026-03-24`
-- [The machine didn’t take your craft. You gave it up. - David Abram](https://blog.ALLCAPSJOE.com/posts/20260322-0328/the-machine-didn-t-take-your-craft-you-g_ls_21ffe5a6c841.html) `2026-03-24`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
