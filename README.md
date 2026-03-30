@@ -70,9 +70,9 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I've built — updated automatically from [tools.ALLCAPSJOE.com](https://tools.allcapsjoe.com)*
 
 <!-- TOOLS_START -->
-- [A List Generator](https://tools.allcapsjoe.com/a-list-generator/) `2026-02-18`
-- [CAPS LOCKED](https://tools.allcapsjoe.com/caps-locked/) `2026-02-18`
-- [Character Counter](https://tools.allcapsjoe.com/char-cnt/) `2026-02-18`
+- [Track Operator](https://tools.allcapsjoe.com/track-operator/) `2026-03-29`
+- [JSON to Flashcards](https://tools.allcapsjoe.com/json-to-flashcards/) `2026-02-18`
+- [Switch The List](https://tools.allcapsjoe.com/switch-the-list/) `2026-02-18`
 <!-- TOOLS_END -->
 
 - [More...](https://tools.allcapsjoe.com)
