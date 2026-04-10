@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [Stunning Artemis II Phone Wallpapers](https://blog.allcapsjoe.com/posts/20260405-0411/stunning-artemis-ii-phone-wallpapers_ls_21d93928f1d4.html) `2026-04-09`
 - [Solar Eclipse From the Far Side of the Moon](https://blog.allcapsjoe.com/posts/20260405-0411/solar-eclipse-from-the-far-side-of-the-m_ls_04eac25c8091.html) `2026-04-08`
 - [Every iPhone Ever Made](https://blog.allcapsjoe.com/posts/20260405-0411/every-iphone-ever-made_ls_62347b3cfd48.html) `2026-04-08`
 - [AI Might Be Our Best Shot At Taking Back The Open Web](https://blog.allcapsjoe.com/posts/20260405-0411/ai-might-be-our-best-shot-at-taking-back_ls_e51d90e6ed13.html) `2026-04-07`
 - [Artemis II Live Tracker — Real-Time Moon Mission Dashboard](https://blog.allcapsjoe.com/posts/20260329-0404/artemis-ii-live-tracker-real-time-moon-m_ls_7b326226ae5b.html) `2026-04-03`
-- [Hello, World - NASA](https://blog.allcapsjoe.com/posts/20260329-0404/hello-world-nasa_ls_3569730f0377.html) `2026-04-03`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
