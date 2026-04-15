@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [Google Has a Secret Reference Desk. Here’s How to Use It.](https://blog.allcapsjoe.com/posts/20260412-0418/google-has-a-secret-reference-desk-here_ls_38d0732430f0.html) `2026-04-14`
+- [Golden tickets.](https://blog.allcapsjoe.com/posts/20260412-0418/golden-tickets_ls_4dd296f34856.html) `2026-04-14`
+- [How I Read 44 Books Last Year](https://blog.allcapsjoe.com/posts/20260412-0418/how-i-read-44-books-last-year_ls_de94e02601e2.html) `2026-04-14`
+- [&amp;ldquo;The problem is that LLMs inherently lack the virtue of laziness.&amp;rdquo;](https://blog.allcapsjoe.com/posts/20260412-0418/ldquo-the-problem-is-that-llms-inherentl_ls_7e82a4acfd3a.html) `2026-04-14`
 - [whoami.wiki](https://blog.allcapsjoe.com/posts/20260412-0418/whoami-wiki_ls_7a466a602848.html) `2026-04-12`
-- [Working with agents doesn’t feel like flow — Bill de hÓra](https://blog.allcapsjoe.com/posts/20260412-0418/working-with-agents-doesn-t-feel-like-fl_ls_68266288f8a7.html) `2026-04-12`
-- [Stunning Artemis II Phone Wallpapers](https://blog.allcapsjoe.com/posts/20260405-0411/stunning-artemis-ii-phone-wallpapers_ls_21d93928f1d4.html) `2026-04-09`
-- [Solar Eclipse From the Far Side of the Moon](https://blog.allcapsjoe.com/posts/20260405-0411/solar-eclipse-from-the-far-side-of-the-m_ls_04eac25c8091.html) `2026-04-08`
-- [Every iPhone Ever Made](https://blog.allcapsjoe.com/posts/20260405-0411/every-iphone-ever-made_ls_62347b3cfd48.html) `2026-04-08`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
@@ -42,9 +42,9 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm building — updated automatically from [games.ALLCAPSJOE.com](https://games.allcapsjoe.com)*
 
 <!-- GAMES_START -->
+- [Woolong Exchange](https://games.allcapsjoe.com/woolong-exchange/) `2026-04-14`
 - [Emoji Bloom](https://games.allcapsjoe.com/emoji-bloom/) `2026-03-19`
 - [Neon Diver](https://games.allcapsjoe.com/neon-diver/) `2026-01-20`
-- [Thread](https://games.allcapsjoe.com/thread/) `2026-01-20`
 <!-- GAMES_END -->
 
 - [More...](https://games.allcapsjoe.com)
