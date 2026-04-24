@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [AI Displacement Simulator](https://blog.allcapsjoe.com/posts/20260419-0425/ai-displacement-simulator_ls_309075e591b4.html) `2026-04-23`
+- [Untitled](https://blog.allcapsjoe.com/posts/20260419-0425/untitled_ls_11ef287504c4.html) `2026-04-23`
+- [This AI Tool Rips Off Open Source Software Without Violating Copyright](https://blog.allcapsjoe.com/posts/20260419-0425/this-ai-tool-rips-off-open-source-softwa_ls_f7e79f928d28.html) `2026-04-23`
+- [Training your own replacement, a familiar tale!](https://blog.allcapsjoe.com/posts/20260419-0425/training-your-own-replacement-a-familiar_ls_9f10360edfcd.html) `2026-04-23`
 - [Why Zip drives dominated the 90s, then vanished almost overnight](https://blog.allcapsjoe.com/posts/20260419-0425/why-zip-drives-dominated-the-90s-then-va_ls_be5a95695138.html) `2026-04-19`
-- [024 I Pocket E-Reader - 3D Printed DIY Project - Paul Lagier - Projects’s Ko-fi Shop](https://blog.allcapsjoe.com/posts/20260412-0418/024-i-pocket-e-reader-3d-printed-diy-pro_ls_555c569f6f63.html) `2026-04-17`
-- [Google Has a Secret Reference Desk. Here’s How to Use It.](https://blog.allcapsjoe.com/posts/20260412-0418/google-has-a-secret-reference-desk-here_ls_38d0732430f0.html) `2026-04-14`
-- [Golden tickets.](https://blog.allcapsjoe.com/posts/20260412-0418/golden-tickets_ls_4dd296f34856.html) `2026-04-14`
-- [How I Read 44 Books Last Year](https://blog.allcapsjoe.com/posts/20260412-0418/how-i-read-44-books-last-year_ls_de94e02601e2.html) `2026-04-14`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
@@ -56,9 +56,9 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I've launched — updated automatically from [sites.ALLCAPSJOE.com](https://sites.allcapsjoe.com)*
 
 <!-- SITES_START -->
-- [BigUncleJoe.com](https://bigunclejoe.com/) `2026-03-03`
 - [AC Bell Prices](https://acbp.xyz/) `2026-03-03`
-- [How Many Days Since…](https://howmanydayssince.net/) `2026-02-18`
+- [BigUncleJoe.com](https://bigunclejoe.com/) `2026-03-03`
+- [CircleM Horror Film Festival](https://circlemhorrorfilmfest.com/) `2026-02-18`
 <!-- SITES_END -->
 
 - [More...](https://sites.allcapsjoe.com)
