@@ -56,9 +56,9 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I've launched — updated automatically from [sites.ALLCAPSJOE.com](https://sites.allcapsjoe.com)*
 
 <!-- SITES_START -->
-- [AC Bell Prices](https://acbp.xyz/) `2026-03-03`
-- [BigUncleJoe.com](https://bigunclejoe.com/) `2026-03-03`
-- [CircleM Horror Film Festival](https://circlemhorrorfilmfest.com/) `2026-02-18`
+- [CircleM Horror Film Festival](https://circlemhorrorfilmfest.com/) `2026-04-01`
+- [BigUncleJoe.com](https://bigunclejoe.com/) `2026-03-20`
+- [Random Passphrase Generator](https://randompassphrasegenerator.com/) `2026-03-10`
 <!-- SITES_END -->
 
 - [More...](https://sites.allcapsjoe.com)
