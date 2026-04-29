@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [Study Finds A Third of New Websites are AI-Generated](https://blog.allcapsjoe.com/posts/20260426-0502/study-finds-a-third-of-new-websites-are_ls_b0fbd493b6f9.html) `2026-04-28`
 - [The AI Compute Crunch Is Here (and It’s Affecting the Entire Economy)](https://blog.allcapsjoe.com/posts/20260419-0425/the-ai-compute-crunch-is-here-and-it-s-a_ls_01301b2413f8.html) `2026-04-25`
 - [AI Displacement Simulator](https://blog.allcapsjoe.com/posts/20260419-0425/ai-displacement-simulator_ls_309075e591b4.html) `2026-04-23`
 - [Untitled](https://blog.allcapsjoe.com/posts/20260419-0425/untitled_ls_11ef287504c4.html) `2026-04-23`
 - [This AI Tool Rips Off Open Source Software Without Violating Copyright](https://blog.allcapsjoe.com/posts/20260419-0425/this-ai-tool-rips-off-open-source-softwa_ls_f7e79f928d28.html) `2026-04-23`
-- [Training your own replacement, a familiar tale!](https://blog.allcapsjoe.com/posts/20260419-0425/training-your-own-replacement-a-familiar_ls_9f10360edfcd.html) `2026-04-23`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
