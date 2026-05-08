@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [Vibe coding and agentic engineering are getting closer than I’d like](https://blog.allcapsjoe.com/posts/20260503-0509/vibe-coding-and-agentic-engineering-are_ls_8ff785ebe247.html) `2026-05-07`
+- [Untitled](https://blog.allcapsjoe.com/posts/20260503-0509/untitled_ls_3c7238bb39e7.html) `2026-05-07`
+- [CRT View by Mattias Gustavsson](https://blog.allcapsjoe.com/posts/20260503-0509/crt-view-by-mattias-gustavsson_ls_e4ed2d4f4d13.html) `2026-05-07`
 - [Domain names before they were bought by big companies](https://blog.allcapsjoe.com/posts/20260503-0509/domain-names-before-they-were-bought-by_ls_dab38edee025.html) `2026-05-06`
 - [Untitled](https://blog.allcapsjoe.com/posts/20260503-0509/untitled_ls_e5e4dd002399.html) `2026-05-05`
-- [https://xcancel.com/kdaigle/status/2040164759836778878](https://blog.allcapsjoe.com/posts/20260503-0509/https-xcancel-com-kdaigle-status-2040164_ls_d48bb250d792.html) `2026-05-05`
-- [Days Without GitHub Incident](https://blog.allcapsjoe.com/posts/20260503-0509/days-without-github-incident_ls_2da866b9e9d2.html) `2026-05-05`
-- [Apocalypse Early Warning System](https://blog.allcapsjoe.com/posts/20260503-0509/apocalypse-early-warning-system_ls_8ff2c6d932e2.html) `2026-05-05`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
