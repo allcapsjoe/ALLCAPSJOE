@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [MapTap Home - Daily Geography Game](https://blog.allcapsjoe.com/posts/20260510-0516/maptap-home-daily-geography-game_ls_b8bc37527e7d.html) `2026-05-13`
+- [James Shore: You Need AI That Reduces Maintenance Costs](https://blog.allcapsjoe.com/posts/20260510-0516/james-shore-you-need-ai-that-reduces-mai_ls_2639ab6c6e0d.html) `2026-05-13`
+- [Your AI Use Is Breaking My Brain](https://blog.allcapsjoe.com/posts/20260510-0516/your-ai-use-is-breaking-my-brain_ls_28682fa251f7.html) `2026-05-13`
+- [taken.](https://blog.allcapsjoe.com/posts/20260510-0516/taken_ls_e2063aef194f.html) `2026-05-13`
 - [Vibe coding and agentic engineering are getting closer than I’d like](https://blog.allcapsjoe.com/posts/20260503-0509/vibe-coding-and-agentic-engineering-are_ls_8ff785ebe247.html) `2026-05-07`
-- [Untitled](https://blog.allcapsjoe.com/posts/20260503-0509/untitled_ls_3c7238bb39e7.html) `2026-05-07`
-- [CRT View by Mattias Gustavsson](https://blog.allcapsjoe.com/posts/20260503-0509/crt-view-by-mattias-gustavsson_ls_e4ed2d4f4d13.html) `2026-05-07`
-- [Domain names before they were bought by big companies](https://blog.allcapsjoe.com/posts/20260503-0509/domain-names-before-they-were-bought-by_ls_dab38edee025.html) `2026-05-06`
-- [Untitled](https://blog.allcapsjoe.com/posts/20260503-0509/untitled_ls_e5e4dd002399.html) `2026-05-05`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
