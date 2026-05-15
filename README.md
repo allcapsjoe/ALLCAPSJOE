@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [Agents! I got 548 tabs open](https://blog.allcapsjoe.com/posts/20260510-0516/agents-i-got-548-tabs-open_ls_571c95f7942f.html) `2026-05-14`
+- [Software Developers Say AI Is Rotting Their Brains](https://blog.allcapsjoe.com/posts/20260510-0516/software-developers-say-ai-is-rotting-th_ls_0e44f57f07bd.html) `2026-05-14`
 - [MapTap Home - Daily Geography Game](https://blog.allcapsjoe.com/posts/20260510-0516/maptap-home-daily-geography-game_ls_b8bc37527e7d.html) `2026-05-13`
 - [James Shore: You Need AI That Reduces Maintenance Costs](https://blog.allcapsjoe.com/posts/20260510-0516/james-shore-you-need-ai-that-reduces-mai_ls_2639ab6c6e0d.html) `2026-05-13`
 - [Your AI Use Is Breaking My Brain](https://blog.allcapsjoe.com/posts/20260510-0516/your-ai-use-is-breaking-my-brain_ls_28682fa251f7.html) `2026-05-13`
-- [taken.](https://blog.allcapsjoe.com/posts/20260510-0516/taken_ls_e2063aef194f.html) `2026-05-13`
-- [Vibe coding and agentic engineering are getting closer than I’d like](https://blog.allcapsjoe.com/posts/20260503-0509/vibe-coding-and-agentic-engineering-are_ls_8ff785ebe247.html) `2026-05-07`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
