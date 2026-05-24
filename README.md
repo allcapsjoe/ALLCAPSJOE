@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [Unbelievable Moments From Nature - Narrated by David Attenborough](https://blog.allcapsjoe.com/posts/20260517-0523/unbelievable-moments-from-nature-narrate_ls_60e0c5e8ee4f.html) `2026-05-22`
+- [Welcome to the personal software revolution](https://blog.allcapsjoe.com/posts/20260517-0523/welcome-to-the-personal-software-revolut_ls_2c365a5f00c7.html) `2026-05-22`
+- [Welcome to the personal software revolution](https://blog.allcapsjoe.com/posts/20260517-0523/welcome-to-the-personal-software-revolut_ls_b08f60c16695.html) `2026-05-22`
+- [Andrej Karpathy Joined Anthropic](https://blog.allcapsjoe.com/posts/20260517-0523/andrej-karpathy-joined-anthropic_ls_7186bd7a5075.html) `2026-05-22`
 - [The last six months in LLMs in five minutes](https://blog.allcapsjoe.com/posts/20260517-0523/the-last-six-months-in-llms-in-five-minu_ls_ad66c8d2db0c.html) `2026-05-19`
-- [Agents! I got 548 tabs open](https://blog.allcapsjoe.com/posts/20260510-0516/agents-i-got-548-tabs-open_ls_571c95f7942f.html) `2026-05-14`
-- [Software Developers Say AI Is Rotting Their Brains](https://blog.allcapsjoe.com/posts/20260510-0516/software-developers-say-ai-is-rotting-th_ls_0e44f57f07bd.html) `2026-05-14`
-- [MapTap Home - Daily Geography Game](https://blog.allcapsjoe.com/posts/20260510-0516/maptap-home-daily-geography-game_ls_b8bc37527e7d.html) `2026-05-13`
-- [James Shore: You Need AI That Reduces Maintenance Costs](https://blog.allcapsjoe.com/posts/20260510-0516/james-shore-you-need-ai-that-reduces-mai_ls_2639ab6c6e0d.html) `2026-05-13`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
