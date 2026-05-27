@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [Pluralistic: The AI bubble isn’t like the internet bubble (26 May 2026) – Pluralistic: Daily links from Cory Doctorow](https://blog.allcapsjoe.com/posts/20260524-0530/pluralistic-the-ai-bubble-isn-t-like-the_ls_e6d766feb0a2.html) `2026-05-26`
+- [Pluralistic: Reverse centaurs are the answer to the AI paradox (11 Sep 2025) – Pluralistic: Daily links from Cory Doctorow](https://blog.allcapsjoe.com/posts/20260524-0530/pluralistic-reverse-centaurs-are-the-ans_ls_a210293c212f.html) `2026-05-26`
 - [Unbelievable Moments From Nature - Narrated by David Attenborough](https://blog.allcapsjoe.com/posts/20260517-0523/unbelievable-moments-from-nature-narrate_ls_60e0c5e8ee4f.html) `2026-05-22`
 - [Welcome to the personal software revolution](https://blog.allcapsjoe.com/posts/20260517-0523/welcome-to-the-personal-software-revolut_ls_2c365a5f00c7.html) `2026-05-22`
 - [Welcome to the personal software revolution](https://blog.allcapsjoe.com/posts/20260517-0523/welcome-to-the-personal-software-revolut_ls_b08f60c16695.html) `2026-05-22`
-- [Andrej Karpathy Joined Anthropic](https://blog.allcapsjoe.com/posts/20260517-0523/andrej-karpathy-joined-anthropic_ls_7186bd7a5075.html) `2026-05-22`
-- [The last six months in LLMs in five minutes](https://blog.allcapsjoe.com/posts/20260517-0523/the-last-six-months-in-llms-in-five-minu_ls_ad66c8d2db0c.html) `2026-05-19`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
