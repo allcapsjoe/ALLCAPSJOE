@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [Windows | Dave Krugman](https://blog.allcapsjoe.com/posts/20260531-0606/windows-dave-krugman_ls_822a3566195f.html) `2026-06-02`
+- [Amazon Shuts Down Internal AI Leaderboard After Employees Cheated](https://blog.allcapsjoe.com/posts/20260531-0606/amazon-shuts-down-internal-ai-leaderboar_ls_4c9aa36549d8.html) `2026-06-02`
 - [The solution might be cancelling my AI subscription](https://blog.allcapsjoe.com/posts/20260531-0606/the-solution-might-be-cancelling-my-ai-s_ls_50ffb822a5f1.html) `2026-06-01`
 - [Robots are being trained now for the future.](https://blog.allcapsjoe.com/posts/20260531-0606/robots-are-being-trained-now-for-the-fut_ls_7804e3318b3c.html) `2026-05-31`
 - [Mazeball](https://blog.allcapsjoe.com/posts/20260524-0530/mazeball_ls_4c2562035c7e.html) `2026-05-30`
-- [The AI Bubble — No One’s Happy](https://blog.allcapsjoe.com/posts/20260524-0530/the-ai-bubble-no-one-s-happy_ls_5a9f14347ab4.html) `2026-05-28`
-- [Tech CEOs are apparently suffering from AI psychosis | TechCrunch](https://blog.allcapsjoe.com/posts/20260524-0530/tech-ceos-are-apparently-suffering-from_ls_59f4db24dd2c.html) `2026-05-28`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
