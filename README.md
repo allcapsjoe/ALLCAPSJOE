@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
-- [Windows | Dave Krugman](https://blog.allcapsjoe.com/posts/20260531-0606/windows-dave-krugman_ls_822a3566195f.html) `2026-06-02`
-- [Amazon Shuts Down Internal AI Leaderboard After Employees Cheated](https://blog.allcapsjoe.com/posts/20260531-0606/amazon-shuts-down-internal-ai-leaderboar_ls_4c9aa36549d8.html) `2026-06-02`
-- [The solution might be cancelling my AI subscription](https://blog.allcapsjoe.com/posts/20260531-0606/the-solution-might-be-cancelling-my-ai-s_ls_50ffb822a5f1.html) `2026-06-01`
-- [Robots are being trained now for the future.](https://blog.allcapsjoe.com/posts/20260531-0606/robots-are-being-trained-now-for-the-fut_ls_7804e3318b3c.html) `2026-05-31`
-- [Mazeball](https://blog.allcapsjoe.com/posts/20260524-0530/mazeball_ls_4c2562035c7e.html) `2026-05-30`
+- [AI enthusiasts are in a race against time, AI skeptics are in a race against entropy](https://blog.allcapsjoe.com/posts/20260531-0606/ai-enthusiasts-are-in-a-race-against-tim_ls_a8a6d23459db.html) `2026-06-05`
+- [No, Artificial Intelligence Is Not Conscious](https://blog.allcapsjoe.com/posts/20260531-0606/no-artificial-intelligence-is-not-consci_ls_919334ae7bee.html) `2026-06-04`
+- [The Best Thing About The Satanic Panic](https://blog.allcapsjoe.com/posts/20260531-0606/the-best-thing-about-the-satanic-panic_ls_bcbb59009faa.html) `2026-06-04`
+- [Ipsum for life!](https://blog.allcapsjoe.com/posts/20260531-0606/ipsum-for-life_ls_e1f768999d6a.html) `2026-06-03`
+- [Someone has to pay for the kens](https://blog.allcapsjoe.com/posts/20260531-0606/someone-has-to-pay-for-the-kens_ls_ab441eb6d8c1.html) `2026-06-03`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
