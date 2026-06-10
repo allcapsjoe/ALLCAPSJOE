@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [The U.S. Military Quietly Turned GPS Into a Global ‘Numbers Station,’ Evidence Suggests](https://blog.allcapsjoe.com/posts/20260531-0606/the-u-s-military-quietly-turned-gps-into_ls_1801f8eb9df7.html) `2026-06-06`
+- [Put it in the books. It will be half by this time next year](https://blog.allcapsjoe.com/posts/20260531-0606/put-it-in-the-books-it-will-be-half-by-t_ls_e0b25b62bcae.html) `2026-06-06`
+- [Mechanical Pencil](https://blog.allcapsjoe.com/posts/20260531-0606/mechanical-pencil_ls_d9546b72e4a8.html) `2026-06-06`
+- [Ai vs crypto. Who saw that coming 🙃](https://blog.allcapsjoe.com/posts/20260531-0606/ai-vs-crypto-who-saw-that-coming_ls_053e8c0efc01.html) `2026-06-06`
 - [AI enthusiasts are in a race against time, AI skeptics are in a race against entropy](https://blog.allcapsjoe.com/posts/20260531-0606/ai-enthusiasts-are-in-a-race-against-tim_ls_a8a6d23459db.html) `2026-06-05`
-- [No, Artificial Intelligence Is Not Conscious](https://blog.allcapsjoe.com/posts/20260531-0606/no-artificial-intelligence-is-not-consci_ls_919334ae7bee.html) `2026-06-04`
-- [The Best Thing About The Satanic Panic](https://blog.allcapsjoe.com/posts/20260531-0606/the-best-thing-about-the-satanic-panic_ls_bcbb59009faa.html) `2026-06-04`
-- [Ipsum for life!](https://blog.allcapsjoe.com/posts/20260531-0606/ipsum-for-life_ls_e1f768999d6a.html) `2026-06-03`
-- [Someone has to pay for the kens](https://blog.allcapsjoe.com/posts/20260531-0606/someone-has-to-pay-for-the-kens_ls_ab441eb6d8c1.html) `2026-06-03`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
