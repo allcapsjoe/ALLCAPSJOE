@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [How The Heck Do Solar Panels Work? (An Interactive Exploration)](https://blog.allcapsjoe.com/posts/20260614-0620/how-the-heck-do-solar-panels-work-an-int_ls_ce8df6e3be98.html) `2026-06-16`
+- [The SpaceX IPO Is A Giant Unworkable Con Orchestrated By An Overt White Supremacist Huckster](https://blog.allcapsjoe.com/posts/20260614-0620/the-spacex-ipo-is-a-giant-unworkable-con_ls_ff6822c2bd7c.html) `2026-06-16`
+- [The VCs Who Screamed That Biden Would Kill Powerful AI Models Seem Quite Chill About Trump Actually Doing It](https://blog.allcapsjoe.com/posts/20260614-0620/the-vcs-who-screamed-that-biden-would-ki_ls_b3e4bbcfb467.html) `2026-06-16`
 - [cup.watch — your World Cup 2026 trophy companion](https://blog.allcapsjoe.com/posts/20260607-0613/cup-watch-your-world-cup-2026-trophy-com_ls_2cd3bdd13dc2.html) `2026-06-12`
 - [Reporters Notebook: The story of cup.watch](https://blog.allcapsjoe.com/posts/20260607-0613/reporters-notebook-the-story-of-cup-watc_ls_2acab857f728.html) `2026-06-11`
-- [The U.S. Military Quietly Turned GPS Into a Global ‘Numbers Station,’ Evidence Suggests](https://blog.allcapsjoe.com/posts/20260531-0606/the-u-s-military-quietly-turned-gps-into_ls_1801f8eb9df7.html) `2026-06-06`
-- [Put it in the books. It will be half by this time next year](https://blog.allcapsjoe.com/posts/20260531-0606/put-it-in-the-books-it-will-be-half-by-t_ls_e0b25b62bcae.html) `2026-06-06`
-- [Mechanical Pencil](https://blog.allcapsjoe.com/posts/20260531-0606/mechanical-pencil_ls_d9546b72e4a8.html) `2026-06-06`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
