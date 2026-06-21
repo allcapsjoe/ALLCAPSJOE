@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
-- [Apparently The Real Reason Anthropic’s Models Are Offline: A Six-Year-Old Trump Grudge](https://blog.allcapsjoe.com/posts/20260614-0620/apparently-the-real-reason-anthropic-s-m_ls_30ace2749bce.html) `2026-06-17`
-- [How The Heck Do Solar Panels Work? (An Interactive Exploration)](https://blog.allcapsjoe.com/posts/20260614-0620/how-the-heck-do-solar-panels-work-an-int_ls_ce8df6e3be98.html) `2026-06-16`
-- [The SpaceX IPO Is A Giant Unworkable Con Orchestrated By An Overt White Supremacist Huckster](https://blog.allcapsjoe.com/posts/20260614-0620/the-spacex-ipo-is-a-giant-unworkable-con_ls_ff6822c2bd7c.html) `2026-06-16`
-- [The VCs Who Screamed That Biden Would Kill Powerful AI Models Seem Quite Chill About Trump Actually Doing It](https://blog.allcapsjoe.com/posts/20260614-0620/the-vcs-who-screamed-that-biden-would-ki_ls_b3e4bbcfb467.html) `2026-06-16`
-- [cup.watch — your World Cup 2026 trophy companion](https://blog.allcapsjoe.com/posts/20260607-0613/cup-watch-your-world-cup-2026-trophy-com_ls_2cd3bdd13dc2.html) `2026-06-12`
+- [AI demands more engineering discipline. Not less](https://blog.allcapsjoe.com/posts/20260614-0620/ai-demands-more-engineering-discipline-n_ls_cda5b50a0b8a.html) `2026-06-20`
+- [Untitled](https://blog.allcapsjoe.com/posts/20260614-0620/untitled_ls_d2b7b95a4d3b.html) `2026-06-20`
+- [Ribbie: 8-bit baseball](https://blog.allcapsjoe.com/posts/20260614-0620/ribbie-8-bit-baseball_ls_0654eefd9014.html) `2026-06-20`
+- [TownSquare, a tiny presence layer for websites](https://blog.allcapsjoe.com/posts/20260614-0620/townsquare-a-tiny-presence-layer-for-web_ls_a6e30d0f293f.html) `2026-06-20`
+- [Bad sign for money](https://blog.allcapsjoe.com/posts/20260614-0620/bad-sign-for-money_ls_b37f675be657.html) `2026-06-20`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
