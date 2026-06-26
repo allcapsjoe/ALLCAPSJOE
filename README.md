@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [Token time!](https://blog.allcapsjoe.com/posts/20260621-0627/token-time_ls_a8588925684a.html) `2026-06-25`
+- [Lifts in Film is the Video Archive for the best elevator scenes in Movies](https://blog.allcapsjoe.com/posts/20260621-0627/lifts-in-film-is-the-video-archive-for-t_ls_603214d0abf4.html) `2026-06-25`
 - [Legibility of Effort · eieio.games](https://blog.allcapsjoe.com/posts/20260621-0627/legibility-of-effort-eieio-games_ls_ef85014ab132.html) `2026-06-24`
 - [Read this before you vibe-code another app](https://blog.allcapsjoe.com/posts/20260621-0627/read-this-before-you-vibe-code-another-a_ls_a462d10bd8ea.html) `2026-06-22`
 - [AI demands more engineering discipline. Not less](https://blog.allcapsjoe.com/posts/20260614-0620/ai-demands-more-engineering-discipline-n_ls_cda5b50a0b8a.html) `2026-06-20`
-- [Untitled](https://blog.allcapsjoe.com/posts/20260614-0620/untitled_ls_d2b7b95a4d3b.html) `2026-06-20`
-- [Ribbie: 8-bit baseball](https://blog.allcapsjoe.com/posts/20260614-0620/ribbie-8-bit-baseball_ls_0654eefd9014.html) `2026-06-20`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
