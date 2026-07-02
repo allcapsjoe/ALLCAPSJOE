@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [This is going to happen. Humans are lazy, lots of humans are using AI, one of those humans is going&amp;hellip;](https://blog.allcapsjoe.com/posts/20260628-0704/this-is-going-to-happen-humans-are-lazy_ls_be8e22b60d08.html) `2026-07-01`
+- [Flood Map: Elevation Map, Sea Level Rise Map](https://blog.allcapsjoe.com/posts/20260628-0704/flood-map-elevation-map-sea-level-rise-m_ls_794e72638784.html) `2026-07-01`
 - [A24 logo used to mean it&amp;rsquo;s going to be a good movie, now it&amp;rsquo;s associated with Ai slop](https://blog.allcapsjoe.com/posts/20260628-0704/a24-logo-used-to-mean-it-rsquo-s-going-t_ls_f18f6c8ba45a.html) `2026-06-30`
 - [Token time!](https://blog.allcapsjoe.com/posts/20260621-0627/token-time_ls_a8588925684a.html) `2026-06-25`
 - [Lifts in Film is the Video Archive for the best elevator scenes in Movies](https://blog.allcapsjoe.com/posts/20260621-0627/lifts-in-film-is-the-video-archive-for-t_ls_603214d0abf4.html) `2026-06-25`
-- [Legibility of Effort · eieio.games](https://blog.allcapsjoe.com/posts/20260621-0627/legibility-of-effort-eieio-games_ls_ef85014ab132.html) `2026-06-24`
-- [Read this before you vibe-code another app](https://blog.allcapsjoe.com/posts/20260621-0627/read-this-before-you-vibe-code-another-a_ls_a462d10bd8ea.html) `2026-06-22`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
