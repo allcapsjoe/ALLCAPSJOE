@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [LinkedIn and X Are Flooded With AI Spam, Browsing Data Suggests](https://blog.allcapsjoe.com/posts/20260705-0711/linkedin-and-x-are-flooded-with-ai-spam_ls_b387769baf4a.html) `2026-07-10`
 - [We Are Living in a ‘ChatGPT Flyer Pandemic’](https://blog.allcapsjoe.com/posts/20260705-0711/we-are-living-in-a-chatgpt-flyer-pandemi_ls_2564d4b13d8a.html) `2026-07-09`
 - [Stop using hallucinate - &amp;ldquo;one-to-one replacement phrase is undesirable outputs, but it is also&amp;hellip;](https://blog.allcapsjoe.com/posts/20260705-0711/stop-using-hallucinate-ldquo-one-to-one_ls_b654eeaaa0d9.html) `2026-07-09`
 - [Untitled](https://blog.allcapsjoe.com/posts/20260705-0711/untitled_ls_48ef056def9b.html) `2026-07-09`
 - [I always feel like somebody&amp;rsquo;s watching me.](https://blog.allcapsjoe.com/posts/20260705-0711/i-always-feel-like-somebody-rsquo-s-watc_ls_bd82f7882086.html) `2026-07-09`
-- [What goes up must come down](https://blog.allcapsjoe.com/posts/20260705-0711/what-goes-up-must-come-down_ls_99c02f949b73.html) `2026-07-09`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
