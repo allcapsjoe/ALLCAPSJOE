@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [&amp;ldquo;Since the code is so cheap, the idea of having to maintain it in the future - or throw it away and&amp;hellip;](https://blog.allcapsjoe.com/posts/20260719-0725/ldquo-since-the-code-is-so-cheap-the-ide_ls_346957df0dbf.html) `2026-07-21`
 - [AI Mania Is Eviscerating Global Decision-Making — Ludicity](https://blog.allcapsjoe.com/posts/20260719-0725/ai-mania-is-eviscerating-global-decision_ls_02ca5dde8705.html) `2026-07-19`
 - [Notion | Where teams and agents work together](https://blog.allcapsjoe.com/posts/20260712-0718/notion-where-teams-and-agents-work-toget_ls_0ebcb5f7b6b2.html) `2026-07-17`
 - [Lionel Messi Bathing a Baby Lamine Yamal](https://blog.allcapsjoe.com/posts/20260712-0718/lionel-messi-bathing-a-baby-lamine-yamal_ls_567bb2cfd1d1.html) `2026-07-16`
 - [clipart.studio — magazine collage maker](https://blog.allcapsjoe.com/posts/20260712-0718/clipart-studio-magazine-collage-maker_ls_7ea01b17c705.html) `2026-07-15`
-- [Buddy List — who’s online on Bluesky](https://blog.allcapsjoe.com/posts/20260712-0718/buddy-list-who-s-online-on-bluesky_ls_373bf04a9e0a.html) `2026-07-15`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
