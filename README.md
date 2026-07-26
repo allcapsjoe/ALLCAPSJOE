@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-n&amp;hellip;](https://blog.allcapsjoe.com/posts/20260719-0725/https-www-reuters-com-business-its-ai-ag_ls_e57f4ce17e1e.html) `2026-07-25`
 - [This is the greatest thing ever](https://blog.allcapsjoe.com/posts/20260719-0725/this-is-the-greatest-thing-ever_ls_dd6af1d23306.html) `2026-07-24`
 - [DNS.pizza — Check, fix, and monitor your domain and website](https://blog.allcapsjoe.com/posts/20260719-0725/dns-pizza-check-fix-and-monitor-your-dom_ls_f260e1e87492.html) `2026-07-22`
 - [Gotta feed the machine](https://blog.allcapsjoe.com/posts/20260719-0725/gotta-feed-the-machine_ls_7119fb04c9a9.html) `2026-07-22`
 - [&amp;ldquo;Since the code is so cheap, the idea of having to maintain it in the future - or throw it away and&amp;hellip;](https://blog.allcapsjoe.com/posts/20260719-0725/ldquo-since-the-code-is-so-cheap-the-ide_ls_346957df0dbf.html) `2026-07-21`
-- [AI Mania Is Eviscerating Global Decision-Making — Ludicity](https://blog.allcapsjoe.com/posts/20260719-0725/ai-mania-is-eviscerating-global-decision_ls_02ca5dde8705.html) `2026-07-19`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
