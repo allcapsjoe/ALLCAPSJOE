@@ -56,9 +56,9 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I've launched — updated automatically from [sites.ALLCAPSJOE.com](https://sites.allcapsjoe.com)*
 
 <!-- SITES_START -->
+- [Fast. Cheap. Good.](https://fastcheapgood.dev/) `2026-07-31`
 - [FillTheScreen](https://fillthescreen.com/) `2026-07-29`
 - [Every World Cup Result · cup.watch](https://results.cup.watch/) `2026-07-20`
-- [cup.watch](https://cup.watch/) `2026-06-10`
 <!-- SITES_END -->
 
 - [More...](https://sites.allcapsjoe.com)
