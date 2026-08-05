@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [ikea complexity index](https://blog.allcapsjoe.com/posts/20260802-0808/ikea-complexity-index_ls_a330cbb1c417.html) `2026-08-04`
 - [Should You Use AI for a Task? Here’s a Simple Way to Decide - Schneier on Security](https://blog.allcapsjoe.com/posts/20260726-0801/should-you-use-ai-for-a-task-here-s-a-si_ls_68610fa969cb.html) `2026-08-01`
 - [An opinionated guide to which AI to use to do stuff](https://blog.allcapsjoe.com/posts/20260726-0801/an-opinionated-guide-to-which-ai-to-use_ls_50cef742ed6f.html) `2026-07-28`
 - [Book Corners](https://blog.allcapsjoe.com/posts/20260726-0801/book-corners_ls_7d323b4f5e63.html) `2026-07-26`
 - [https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-n&amp;hellip;](https://blog.allcapsjoe.com/posts/20260719-0725/https-www-reuters-com-business-its-ai-ag_ls_e57f4ce17e1e.html) `2026-07-25`
-- [This is the greatest thing ever](https://blog.allcapsjoe.com/posts/20260719-0725/this-is-the-greatest-thing-ever_ls_dd6af1d23306.html) `2026-07-24`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
