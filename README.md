@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [Windows 98 Disk Defrag Simulator](https://blog.allcapsjoe.com/posts/20260830-0905/windows-98-disk-defrag-simulator_ls_01f622fc2692.html) `2026-08-30`
+- [Katamari Object Library](https://blog.allcapsjoe.com/posts/20260830-0905/katamari-object-library_ls_66cb56d6299c.html) `2026-08-30`
 - [Live Maps](https://blog.allcapsjoe.com/posts/20260823-0829/live-maps_ls_e76c69b315ed.html) `2026-08-29`
 - [The Rebrand Registry](https://blog.allcapsjoe.com/posts/20260823-0829/the-rebrand-registry_ls_446bbd44d18d.html) `2026-08-26`
 - [I left Twitter the day he took it over and never looked back.](https://blog.allcapsjoe.com/posts/20260816-0822/i-left-twitter-the-day-he-took-it-over-a_ls_c6581599ee13.html) `2026-08-20`
-- [R.I.P. Columbia House: Here’s How It Improbably Survived This Long](https://blog.allcapsjoe.com/posts/20260816-0822/r-i-p-columbia-house-here-s-how-it-impro_ls_19aa5a5e7e60.html) `2026-08-20`
-- [Ordinary Abundance](https://blog.allcapsjoe.com/posts/20260816-0822/ordinary-abundance_ls_8cdde153866b.html) `2026-08-17`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
