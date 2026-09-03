@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [The joy of making stuff with a 3D printer | Note to Self](https://blog.allcapsjoe.com/posts/20260830-0905/the-joy-of-making-stuff-with-a-3d-printe_ls_f7b2a6d55a4b.html) `2026-09-02`
 - [Windows Fatal Exception](https://blog.allcapsjoe.com/posts/20260830-0905/windows-fatal-exception_ls_9e27fd00e907.html) `2026-08-31`
 - [Afterglow — classic After Dark screen savers on modern macOS](https://blog.allcapsjoe.com/posts/20260830-0905/afterglow-classic-after-dark-screen-save_ls_8883b49d586d.html) `2026-08-31`
 - [Windows 98 Disk Defrag Simulator](https://blog.allcapsjoe.com/posts/20260830-0905/windows-98-disk-defrag-simulator_ls_01f622fc2692.html) `2026-08-30`
 - [Katamari Object Library](https://blog.allcapsjoe.com/posts/20260830-0905/katamari-object-library_ls_66cb56d6299c.html) `2026-08-30`
-- [Live Maps](https://blog.allcapsjoe.com/posts/20260823-0829/live-maps_ls_e76c69b315ed.html) `2026-08-29`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
