@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [Simon sums it up so well here](https://blog.allcapsjoe.com/posts/20260913-0919/simon-sums-it-up-so-well-here_ls_9e031505aece.html) `2026-09-13`
+- [https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html](https://blog.allcapsjoe.com/posts/20260913-0919/https-www-nytimes-com-2026-09-12-opinion_ls_2828c7ec7e9d.html) `2026-09-13`
 - [Info – The Restroom Archive](https://blog.allcapsjoe.com/posts/20260906-0912/info-the-restroom-archive_ls_ed087e1f9643.html) `2026-09-10`
 - [Usenet-Rewind](https://blog.allcapsjoe.com/posts/20260906-0912/usenet-rewind_ls_e0f4b35712ca.html) `2026-09-10`
 - [AIs as Modern Genies - Schneier on Security](https://blog.allcapsjoe.com/posts/20260906-0912/ais-as-modern-genies-schneier-on-securit_ls_5784fa520d6c.html) `2026-09-09`
-- [There’s No Limit to How Bad Code Can Get](https://blog.allcapsjoe.com/posts/20260906-0912/there-s-no-limit-to-how-bad-code-can-get_ls_c064cb3d63af.html) `2026-09-07`
-- [The joy of making stuff with a 3D printer | Note to Self](https://blog.allcapsjoe.com/posts/20260830-0905/the-joy-of-making-stuff-with-a-3d-printe_ls_f7b2a6d55a4b.html) `2026-09-02`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
