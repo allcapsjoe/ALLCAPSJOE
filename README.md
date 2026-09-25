@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [Jev introduces a new shape of LLM—System One, aka Decision Models](https://blog.allcapsjoe.com/posts/20260920-0926/jev-introduces-a-new-shape-of-llm-system_ls_2d4360285dfe.html) `2026-09-24`
 - [My favorite video game of all time](https://blog.allcapsjoe.com/posts/20260920-0926/my-favorite-video-game-of-all-time_ls_a2e264856393.html) `2026-09-24`
 - [Download Dimensional Drawings - Accessories - Apple Developer](https://blog.allcapsjoe.com/posts/20260920-0926/download-dimensional-drawings-accessorie_ls_86166523c81b.html) `2026-09-23`
 - [We are all Product Engineers now | Seldo.com](https://blog.allcapsjoe.com/posts/20260913-0919/we-are-all-product-engineers-now-seldo-c_ls_8150eb591627.html) `2026-09-15`
 - [Simon sums it up so well here](https://blog.allcapsjoe.com/posts/20260913-0919/simon-sums-it-up-so-well-here_ls_9e031505aece.html) `2026-09-13`
-- [https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html](https://blog.allcapsjoe.com/posts/20260913-0919/https-www-nytimes-com-2026-09-12-opinion_ls_2828c7ec7e9d.html) `2026-09-13`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
