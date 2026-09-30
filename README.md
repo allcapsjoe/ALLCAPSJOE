@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
-- [Jev introduces a new shape of LLM—System One, aka Decision Models](https://blog.allcapsjoe.com/posts/20260920-0926/jev-introduces-a-new-shape-of-llm-system_ls_2d4360285dfe.html) `2026-09-24`
-- [My favorite video game of all time](https://blog.allcapsjoe.com/posts/20260920-0926/my-favorite-video-game-of-all-time_ls_a2e264856393.html) `2026-09-24`
-- [Download Dimensional Drawings - Accessories - Apple Developer](https://blog.allcapsjoe.com/posts/20260920-0926/download-dimensional-drawings-accessorie_ls_86166523c81b.html) `2026-09-23`
-- [We are all Product Engineers now | Seldo.com](https://blog.allcapsjoe.com/posts/20260913-0919/we-are-all-product-engineers-now-seldo-c_ls_8150eb591627.html) `2026-09-15`
-- [Simon sums it up so well here](https://blog.allcapsjoe.com/posts/20260913-0919/simon-sums-it-up-so-well-here_ls_9e031505aece.html) `2026-09-13`
+- [Bluesky reply bot checker](https://blog.allcapsjoe.com/posts/20260927-1003/bluesky-reply-bot-checker_ls_3732f4354f0f.html) `2026-09-30`
+- [The death of web development education – Rescuing a field from disappearing](https://blog.allcapsjoe.com/posts/20260927-1003/the-death-of-web-development-education-r_ls_4f9a6c872406.html) `2026-09-30`
+- [Destroy Any Website](https://blog.allcapsjoe.com/posts/20260927-1003/destroy-any-website_ls_653b5b61f211.html) `2026-09-29`
+- [Page Rage: Destroy any web page](https://blog.allcapsjoe.com/posts/20260927-1003/page-rage-destroy-any-web-page_ls_3aba0e1cdd27.html) `2026-09-29`
+- [Hypnotic Fractal Gallery — wastingmytime.net](https://blog.allcapsjoe.com/posts/20260927-1003/hypnotic-fractal-gallery-wastingmytime-n_ls_f800755376a1.html) `2026-09-29`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
