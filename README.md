@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [Control rooms](https://blog.allcapsjoe.com/posts/20260927-1003/control-rooms_ls_66f533344af9.html) `2026-10-03`
 - [Bluesky reply bot checker](https://blog.allcapsjoe.com/posts/20260927-1003/bluesky-reply-bot-checker_ls_3732f4354f0f.html) `2026-09-30`
 - [The death of web development education – Rescuing a field from disappearing](https://blog.allcapsjoe.com/posts/20260927-1003/the-death-of-web-development-education-r_ls_4f9a6c872406.html) `2026-09-30`
 - [Destroy Any Website](https://blog.allcapsjoe.com/posts/20260927-1003/destroy-any-website_ls_653b5b61f211.html) `2026-09-29`
 - [Page Rage: Destroy any web page](https://blog.allcapsjoe.com/posts/20260927-1003/page-rage-destroy-any-web-page_ls_3aba0e1cdd27.html) `2026-09-29`
-- [Hypnotic Fractal Gallery — wastingmytime.net](https://blog.allcapsjoe.com/posts/20260927-1003/hypnotic-fractal-gallery-wastingmytime-n_ls_f800755376a1.html) `2026-09-29`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
