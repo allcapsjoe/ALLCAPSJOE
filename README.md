@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [‘Reverse-Engineer Anything’ Is the New Wild West of AI](https://blog.allcapsjoe.com/posts/20261018-1024/reverse-engineer-anything-is-the-new-wil_ls_a58e7cdc9493.html) `2026-10-20`
 - [AI is mass decompiling games. That’s both awesome and scary.](https://blog.allcapsjoe.com/posts/20261018-1024/ai-is-mass-decompiling-games-that-s-both_ls_7fe9302ef6be.html) `2026-10-18`
 - [A quote from Carson Gross](https://blog.allcapsjoe.com/posts/20261018-1024/a-quote-from-carson-gross_ls_dfbf1b14bed4.html) `2026-10-18`
 - [Untitled](https://blog.allcapsjoe.com/posts/20261011-1017/untitled_ls_bfa0117585e1.html) `2026-10-14`
 - [We are going to kill “unalive” - Anil Dash](https://blog.allcapsjoe.com/posts/20261004-1010/we-are-going-to-kill-unalive-anil-dash_ls_230ed1328e34.html) `2026-10-06`
-- [Control rooms](https://blog.allcapsjoe.com/posts/20260927-1003/control-rooms_ls_66f533344af9.html) `2026-10-03`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
@@ -42,9 +42,9 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm building — updated automatically from [games.ALLCAPSJOE.com](https://games.allcapsjoe.com)*
 
 <!-- GAMES_START -->
+- [Zen Toggles](https://zen.allcapsjoe.com/) `2026-10-20`
 - [Woolong Exchange](https://games.allcapsjoe.com/woolong-exchange/) `2026-04-14`
 - [Emoji Bloom](https://games.allcapsjoe.com/emoji-bloom/) `2026-03-19`
-- [Neon Diver](https://games.allcapsjoe.com/neon-diver/) `2026-01-20`
 <!-- GAMES_END -->
 
 - [More...](https://games.allcapsjoe.com)
