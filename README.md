@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [Local Wikipedia: The Encyclopedia For Local People](https://blog.allcapsjoe.com/posts/20261018-1024/local-wikipedia-the-encyclopedia-for-loc_ls_70162c5179f8.html) `2026-10-23`
+- [AI Is Changing Everything About Hacking. No One Knows What Happens Next](https://blog.allcapsjoe.com/posts/20261018-1024/ai-is-changing-everything-about-hacking_ls_ee0268ddae65.html) `2026-10-23`
 - [‘Reverse-Engineer Anything’ Is the New Wild West of AI](https://blog.allcapsjoe.com/posts/20261018-1024/reverse-engineer-anything-is-the-new-wil_ls_a58e7cdc9493.html) `2026-10-20`
 - [AI is mass decompiling games. That’s both awesome and scary.](https://blog.allcapsjoe.com/posts/20261018-1024/ai-is-mass-decompiling-games-that-s-both_ls_7fe9302ef6be.html) `2026-10-18`
 - [A quote from Carson Gross](https://blog.allcapsjoe.com/posts/20261018-1024/a-quote-from-carson-gross_ls_dfbf1b14bed4.html) `2026-10-18`
-- [Untitled](https://blog.allcapsjoe.com/posts/20261011-1017/untitled_ls_bfa0117585e1.html) `2026-10-14`
-- [We are going to kill “unalive” - Anil Dash](https://blog.allcapsjoe.com/posts/20261004-1010/we-are-going-to-kill-unalive-anil-dash_ls_230ed1328e34.html) `2026-10-06`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
