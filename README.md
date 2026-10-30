@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [API credits benefit for eligible ChatGPT subscriptions](https://blog.allcapsjoe.com/posts/20261025-1031/api-credits-benefit-for-eligible-chatgpt_ls_75d46a0c06fd.html) `2026-10-30`
+- [Professor X first then Picard for me RIP Sir!](https://blog.allcapsjoe.com/posts/20261025-1031/professor-x-first-then-picard-for-me-rip_ls_f3f46243079c.html) `2026-10-30`
 - [My unfortunate prediction here is that this is the start of the end of www.corporations like&amp;hellip;](https://blog.allcapsjoe.com/posts/20261025-1031/my-unfortunate-prediction-here-is-that-t_ls_d8493421af48.html) `2026-10-28`
 - [Follow the helpers](https://blog.allcapsjoe.com/posts/20261025-1031/follow-the-helpers_ls_dc455d845e25.html) `2026-10-27`
 - [Local Wikipedia: The Encyclopedia For Local People](https://blog.allcapsjoe.com/posts/20261018-1024/local-wikipedia-the-encyclopedia-for-loc_ls_70162c5179f8.html) `2026-10-23`
-- [AI Is Changing Everything About Hacking. No One Knows What Happens Next](https://blog.allcapsjoe.com/posts/20261018-1024/ai-is-changing-everything-about-hacking_ls_ee0268ddae65.html) `2026-10-23`
-- [‘Reverse-Engineer Anything’ Is the New Wild West of AI](https://blog.allcapsjoe.com/posts/20261018-1024/reverse-engineer-anything-is-the-new-wil_ls_a58e7cdc9493.html) `2026-10-20`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
