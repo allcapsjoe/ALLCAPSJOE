@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [USPS Announces Mythical Creatures Stamps for 2027](https://blog.allcapsjoe.com/posts/20261108-1114/usps-announces-mythical-creatures-stamps_ls_d4389160de68.html) `2026-11-11`
 - [Foldable Flight: The Best Paper Airplanes in the World!](https://blog.allcapsjoe.com/posts/20261108-1114/foldable-flight-the-best-paper-airplanes_ls_5721b636baf3.html) `2026-11-10`
 - [The Web Is More Than Enough, by Paul Ford](https://blog.allcapsjoe.com/posts/20261108-1114/the-web-is-more-than-enough-by-paul-ford_ls_4e5de14da2fe.html) `2026-11-08`
 - [Building a multiplayer game world with autonomous Fable-class models](https://blog.allcapsjoe.com/posts/20261025-1031/building-a-multiplayer-game-world-with-a_ls_2168d92957a4.html) `2026-10-30`
 - [The Real Kevin Bacon](https://blog.allcapsjoe.com/posts/20261025-1031/the-real-kevin-bacon_ls_121977993485.html) `2026-10-30`
-- [API credits benefit for eligible ChatGPT subscriptions](https://blog.allcapsjoe.com/posts/20261025-1031/api-credits-benefit-for-eligible-chatgpt_ls_75d46a0c06fd.html) `2026-10-30`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
