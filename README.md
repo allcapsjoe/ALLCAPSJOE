@@ -26,11 +26,11 @@ The 30 years matter because mentoring a junior dev and directing an AI model req
 *What I'm reading — updated automatically from [blog.ALLCAPSJOE.com](https://blog.allcapsjoe.com)*
 
 <!-- READING_START -->
+- [Who’s Hacking With AI, and What They’re Using](https://blog.allcapsjoe.com/posts/20261122-1128/who-s-hacking-with-ai-and-what-they-re-u_ls_47824e3dc6a5.html) `2026-11-25`
+- [polykatamari — pyramid to sphere](https://blog.allcapsjoe.com/posts/20261122-1128/polykatamari-pyramid-to-sphere_ls_abddf162aa23.html) `2026-11-25`
 - [weird little apps](https://blog.allcapsjoe.com/posts/20261115-1121/weird-little-apps_ls_f9a7fb0e4823.html) `2026-11-20`
 - [Wow. So many great videos. Jason is the OG blogger.](https://blog.allcapsjoe.com/posts/20261115-1121/wow-so-many-great-videos-jason-is-the-og_ls_2acd9b1ab25c.html) `2026-11-17`
 - [Let’s have a Mouse Party!](https://blog.allcapsjoe.com/posts/20261108-1114/let-s-have-a-mouse-party_ls_51ee722e8f63.html) `2026-11-14`
-- [USPS Announces Mythical Creatures Stamps for 2027](https://blog.allcapsjoe.com/posts/20261108-1114/usps-announces-mythical-creatures-stamps_ls_d4389160de68.html) `2026-11-11`
-- [Foldable Flight: The Best Paper Airplanes in the World!](https://blog.allcapsjoe.com/posts/20261108-1114/foldable-flight-the-best-paper-airplanes_ls_5721b636baf3.html) `2026-11-10`
 <!-- READING_END -->
 
 - [More...](https://blog.allcapsjoe.com)
